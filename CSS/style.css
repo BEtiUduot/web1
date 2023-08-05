@@ -1,0 +1,1341 @@
+*{
+    margin-left: 0%;
+    margin-right: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    background-color: white;
+    margin-top: -2%;
+}
+.logo img{
+    width: 40px;
+    height: 40px;
+    padding-top: -200%;
+    cursor: pointer;
+    margin-bottom: -3.38%;
+    margin-left: 2.1%;
+}
+.t-items{
+    list-style-type: none;
+    margin-top: 1%;
+    padding: 0;
+    display: flex;
+    column-gap: 1%;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 55%;
+    margin-right: 2%;
+}
+.t-items a{
+    text-decoration: none;
+    color: black;
+}
+#main-body{
+    background-image: url(/IMAGE/6BG\ \(2\).jpg);
+    background-size: contain;
+    margin-bottom: -20%;
+}
+.b-container{
+    display: flex;
+    margin-top: 1%;
+    padding-top: 2%;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.card-cont1{
+    padding-top: 1.5px;
+    box-shadow: inset;
+    width: 24%;
+    border-bottom-right-radius: 5px;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 210px;
+}
+.card1 img{
+    width: 99.5%;
+    cursor: pointer;
+}
+.card1 .txt1 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    top: 37.5%;
+    font-style: italic;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 70px;
+}
+.card1{
+    padding-left: 0.5%;
+    position: relative;
+}
+.card1 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card1 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont2{
+    padding-top: 0.7px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 350px;
+}
+.card2 img{
+    width: 99.5%;
+    cursor: pointer;
+}
+.card2 .txt2 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    top: 55.42%;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    cursor: pointer;
+    width: 70px;
+}
+.card2{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card2 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card2 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont3{
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 325px;
+}
+.card-cont3 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card3 .txt3 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    top: 45.3%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 140px;
+    font-style: italic;
+    cursor: pointer;
+}
+.card3{
+    padding-left: 0.5%;
+    position: relative;
+}
+.card3 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card3 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont4{
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 158px;
+}
+.card-cont4 img{
+    width: 99%;
+    cursor: pointer;
+}
+.card4 .txt4 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: white;
+    font-style: italic;
+    top: 59%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 160px;
+}
+.card4{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card4 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card4 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont5{
+    padding-top: 1.2px;
+    width: 24%;
+    margin-top: -13.5%;
+    border-bottom-right-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: -0.3%;
+}
+.card-cont5 img{
+    width: 99%;
+    cursor: pointer;
+}
+.card5 .txt5 p{
+    position: absolute;
+    height: 32px;
+    cursor: pointer;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    top: 80.7%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 180px;
+}
+.card5{
+    padding-left: 0.5%;
+    position: relative;
+}
+.card5 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card5 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont6{
+    margin-top: -23.05%;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.2px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 375px;
+}
+.card-cont6 img{
+    width: 99.5%;
+    cursor: pointer;
+}
+.card6 .txt6 p{
+    position: absolute;
+    cursor: pointer;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    top: 43.8%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 140px;
+}
+.card6{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card6 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card6 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 88%;
+}
+.card-cont7{
+    margin-top: -21.45%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 427px;
+}
+.card-cont7 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card7 .txt7 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: white;
+    font-style: italic;
+    top: 58.0%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 230px;
+}
+.card7{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card7 h2{
+    padding-left: 6%;
+    cursor: pointer;
+    width: 90%;
+}
+.card7 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont8{
+    margin-top: -9.95%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 267px;
+}
+.card-cont8 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card8 .txt8 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: white;
+    font-style: italic;
+    top: 59.1%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 180px;
+}
+.card8{
+    padding-left: 0.5%;
+    position: relative;
+}
+.card8 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card8 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont9{
+    margin-top: 1%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 59px;
+}
+.card-cont9 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card9 .txt9 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    cursor: pointer;
+    top: 48.3%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 170px;
+}
+.card9{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card9 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card9 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont10{
+    margin-top: -24.725%;
+    padding-top: 1.2px;
+    width: 24%;
+    border-bottom-right-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 307px;
+}
+.card-cont10 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card10 .txt10 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    cursor: pointer;
+    top: 43.3%;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 70px;
+}
+.card10{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card10 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card10 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont11{
+    margin-top: -28.25%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 467px;
+}
+.card-cont11 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card11 .txt11 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: white;
+    top: 46.3%;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 127px;
+}
+.card11{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card11 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card11 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont12{
+    margin-top: -17.35%;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.2px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 265px;
+}
+.card-cont12 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card12 .txt12 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    cursor: pointer;
+    top: 39.1%;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 180px;
+}
+.card12{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card12 h2{
+    padding-left: 6%;
+    cursor: pointer;
+    width: 90%;
+}
+.card12 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont13{
+    margin-top: -3.35%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 2.5%;
+}
+.card-cont13 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card13 .txt13 p{
+    position: absolute;
+    height: 32px;
+    cursor: pointer;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    top: 43.7%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 138px;
+}
+.card13{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card13 h2{
+    padding-left: 6%;
+    cursor: pointer;
+    width: 90%;
+}
+.card13 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont14{
+    margin-top: -20.25%;
+    box-shadow: inset;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 335px;
+}
+.card-cont14 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card14 .txt14 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: white;
+    font-style: italic;
+    top: 54.9%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 240px;
+}
+.card14{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card14 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card14 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont15{
+    margin-top: -31.1%;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.2px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 300px;
+}
+.card-cont15 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card15 .txt15 p{
+    position: absolute;
+    font-style: italic;
+    height: 32px;
+    padding-top: 5px;
+    cursor: pointer;
+    color: white;
+    top: 37.3%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 240px;
+}
+.card15{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card15 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card15 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont16{
+    margin-top: -17.35%;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.2px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 350px;
+}
+.card-cont16 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card16 .txt16 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    top: 50.3%;
+    cursor: pointer;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 180px;
+}
+.card16{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card16 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card16 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont17{
+    margin-top: -1.75%;
+    border-bottom-right-radius: 5px;
+    padding-top: 1.1px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 210px;
+}
+.card-cont17 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card17 .txt17 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    cursor: pointer;
+    font-style: italic;
+    top: 59.1%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 240px;
+}
+.card17{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card17 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card17 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont18{
+    margin-top: -22%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 395px;
+}
+.card-cont18 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card18 .txt18 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    cursor: pointer;
+    top: 49.9%;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 250px;
+}
+.card18{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card18 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card18 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont19{
+    margin-top: -19.65%;
+    padding-top: 1.2px;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 382px;
+}
+.card-cont19 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card19 .txt19 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    top: 48.1%;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 180px;
+}
+.card19{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card19 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card19 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont20{
+    margin-top: -23%;
+    padding-top: 1.2px;
+    position: relative;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+}
+.card-cont20 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card20 .txt20 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    font-style: italic;
+    top: 68.2%;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 250px;
+}
+.card20{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card20 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card20 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.card-cont21{
+    margin-top: -26%;
+    margin-left: -19%;
+    margin-right: 5.85%;
+    padding-top: 1.2px;
+    box-shadow: inset;
+    border-bottom-right-radius: 5px;
+    width: 24%;
+    background-color: rgb(255, 255, 255);
+}
+.card-cont21 img{
+    width: 99.7%;
+    cursor: pointer;
+}
+.card21 .txt21 p{
+    position: absolute;
+    height: 32px;
+    padding-top: 5px;
+    color: white;
+    cursor: pointer;
+    top: 39.3%;
+    font-style: italic;
+    background-color: rgba(0, 0, 0, 0.85);
+    left: 0px;
+    width: 240px;
+}
+.card21{
+    padding-left: 0.45%;
+    position: relative;
+}
+.card21 h2{
+    padding-left: 6%;
+    width: 90%;
+    cursor: pointer;
+}
+.card21 p{
+    margin-top: -2.5%;
+    padding-left: 6%;
+    width: 90%;
+}
+.prev{
+    color: white;
+    font-size: larger;
+    cursor: pointer;
+    margin-left: 2%;
+}
+hr{
+    margin-left: 1.8%;
+    margin-right: 2.2%;
+}
+.c-container{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2.3%;
+    margin-right: 2.3%;
+}
+.cards-cont1{
+    width: 45%;
+    margin-right: -10%;
+}
+.cards-cont2{
+    width:30%;
+    margin-left: 15%;
+}
+.cards-cont3{
+    width: 24%;
+    margin-left: 17%;
+}
+.cards-cont4{
+    width: 24%;
+    margin-left: 10%;
+}
+.cards1{
+    margin-top: 6%;
+    margin-left: 2%;
+    color: rgb(0, 0, 0);
+}
+.cards1 p{
+    background-color: white;
+}
+.cards1 input[type=text]{
+    padding-top: 7px;
+    padding-bottom: 8px;
+    font-size: 18px;
+    width: 70%;
+    border-radius: 7px;
+    border-color: white;
+}
+.cards1 input[type=button]{
+    padding-top: 7.5px;
+    padding-bottom: 9px;
+    color: rgb(0, 0, 0);
+    width: 25%;
+    font-size: 17px;
+    border-radius: 7px;
+    border-color: white;
+    cursor: pointer;
+}
+.cards2{
+    color: white;
+}
+.cards2 h2{
+    padding-top: 0.5%;
+    padding-left: 2.5%;
+    padding-bottom: 1.5%;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.cards2 p{
+    font-size: 15px;
+    margin-top: -3.5%;
+    padding-left: 1%;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-weight: 550;
+}
+.cards3{
+    color: white;
+    margin-left: -80%;
+    margin-right: -20%;
+}
+.cards3 h2{
+    padding-top: 0.5%;
+    padding-left: 2.5%;
+    padding-bottom: 1%;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.cards3 p{
+    font-size: 15px;
+    padding-left: 1%;
+    margin-top: -2%;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-weight: 450;
+}
+.cards4{
+    color: white;
+    margin-left: -10%;
+}
+.cards4 h2{
+    padding-top: 0.5%;
+    padding-left: 2.5%;
+    padding-bottom: 1.5%;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+.cards4 p{
+    font-size: 15px;
+    padding-left: 1%;
+    margin-top: -5.5%;
+    color: rgb(255, 255, 255);
+    font-weight: 450;
+    cursor: pointer;
+}
+.sec-line hr{
+    margin-top: 2%;
+}
+.row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: left;
+    margin-right: 53%;
+    font-size: 14.5px;
+    color: white;
+    margin-left: 0.5%;
+    padding-bottom: 1.3%;
+}
+.date1 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date2 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date3 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date4 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date5 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date6 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date7 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date8 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date9 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date10 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date11 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date12 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date13 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date14 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date15 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date16 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date17 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date18 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date19 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date20 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+.date21 p{
+    font-size: small;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+ .card1 .fa1icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    width: 9%;
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    bottom: -8.3%;
+    left: 89%;
+    cursor: pointer;
+}
+.card2 .fa2icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    width: 9%;
+    padding-left: 2%;
+    left: 89%;
+    cursor: pointer;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    bottom: -12.3%;
+}
+.card3 .fa3icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -9.3%;
+}
+.card4 .fa4icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    left: 89%;
+    padding-left: 2%;
+    cursor: pointer;
+    width: 9%;
+    border-bottom-right-radius: 5px;
+    position: relative;
+}
+.fa5icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -7.5%;
+}
+.fa6icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    position: relative;
+    border-bottom-right-radius: 5px;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+}
+.fa7icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -13.3%;
+}
+.fa8icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -13.5%;
+}
+.fa9icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -10.7%;
+}
+.fa10icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -8.6%;
+}
+.fa11icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -10.2%;
+}
+.fa12icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+}
+.fa13icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+}
+.fa14icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -13.3%;
+}
+.fa15icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -8.2%;
+}
+.fa16icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -15.1%;
+}
+.fa17icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -13.3%;
+}
+.fa18icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -11.8%;
+}
+.fa19icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: absolute;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+    bottom: -11.8%;
+}
+.fa20icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: relative;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+}
+.fa21icon {
+    font-size: 25px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding-left: 2%;
+    border-bottom-right-radius: 5px;
+    position: relative;
+    width: 9%;
+    cursor: pointer;
+    left: 89%;
+}
+.awe1 a{
+    text-decoration: none;
+}
+.awe1 p{
+    color: rgb(223, 101, 31);
+}
+.awe2 a{
+    text-decoration: none;
+}
+.awe2 p{
+    color: rgb(221, 208, 25);
+}
